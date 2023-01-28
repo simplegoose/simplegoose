@@ -6,10 +6,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-simplegoose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timothy-njoroge-mwangi/)](https://www.linkedin.com/in/timothy-njoroge-mwangi/)
 
-- Hello! 👋 I'm a full-stack web developer with the MERN stack.
+- Hello! 👋 I am a full-stack web developer with the MERN stack.
 - 🥈 I have a bachelor's degree in Applied Physics and Computer Science from the Multimedia University of Kenya.
-- 🌱 Currently, I'm working remotely while learning at Microverse. Microverse is a remote software development program.
-- 💞️ I’m looking to collaborate on the above and also machine learning
+- 🌱 I am working remotely as a software developer while learning at Microverse. Microverse is a remote software development program.
+- 💞️ I am looking to collaborate on the above and also on machine learning.
 - 📫 How to reach me :- 
   - timothynjoroge56@gmail.com
 
